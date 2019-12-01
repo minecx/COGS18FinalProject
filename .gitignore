@@ -1,4 +1,3 @@
-*.xls
 *.ics
-*.csv
+ERCDeskEvents.*
 .DS_Store
