@@ -1,3 +1,4 @@
 *.ics
 ERCDeskEvents.*
 .DS_Store
+*.py
