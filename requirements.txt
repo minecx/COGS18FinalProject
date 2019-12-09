@@ -1,0 +1,6 @@
+Requirements for my program:
+
+· Must have module 'pandas' installed
+· Must have module 'datetime' installed
+· Must have module 'icalendar' installed
+· Must maintain the file structure as it is now
