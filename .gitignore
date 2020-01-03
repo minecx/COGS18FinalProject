@@ -1,3 +1,7 @@
 *.ics
 ERCDeskEvents.*
 .DS_Store
+__pycache
+__pycache/*
+.ipynb_checkpoints
+TimeProcessor.pyc
